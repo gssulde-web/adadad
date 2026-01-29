@@ -1,7 +1,7 @@
 <!DOCTYPE hmtl>
 <hmtl>
 <head>
-    <title>Welcome ti internet technology fundamentals</title>
+    <title>suga top 1 clips</title>
 </head>
 <body>
     <h1>temuulengiin hud clips</h1>
