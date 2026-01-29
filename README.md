@@ -5,7 +5,8 @@
 </head>
 <body>
     <h1>welcome to laboratory 1</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ult labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud
+    <p>mongoliin shileg gpt after all
+    </p>
+</body>
+</head>
 
