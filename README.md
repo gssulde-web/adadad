@@ -1,7 +1,7 @@
 <!DOCTYPE hmtl>
 <hmtl>
 <head>
-    <title>Welcome ti internet technology fundamentals</title>
+    <title>suldeGPT</title>
 </head>
 <body>
     <h1>welcome to laboratory 1</h1>
